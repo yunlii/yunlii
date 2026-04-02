@@ -1,7 +1,7 @@
 ## 简介 / "Intro "
 Just keep going.
 
-<img align="right" src="asset/blackcat.png" width="200px" height="200px"/>
+<img align="right" src="assets/black-cat.png" width="200px" height="200px"/>
 
 
 ### ‌做乜嘢 / "Be doing"
