@@ -16,5 +16,5 @@ Just keep going.
 
 </details>
 <details>
-  <summary>游戏 🎮</summary>
+  <summary>游戏 🎮 / Game</summary>
 </details>
