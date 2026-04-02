@@ -1,19 +1,20 @@
-### 简介 / Intro
-
+## 简介 / "Intro "
 Just keep going.
 
-### 项目 / What am I doing?
----
-### Web
-玩具电商平台
+## ‌做乜嘢 / "Be doing"
+<details>
+  <summary>Web🌞</summary>
+</details>
 
-## 算法 / Algorithm
-## 编程语言 / Programming Language
-### C/C++
-### JS/TS
+## 捣鼓什么 / “Tinkering with”
+<details>
+  <summary>算法 / Algorithm 💢</summary>
 
-## 操作系统 / Operating System
-## 网络 / Network
-## 硬件 / Hardware
-## 源码拆解 / Source code disassembly
-### 前端 / Front-end
+</details>
+<details>
+  <summary>源码拆解 / Source code disassembly</summary>
+
+</details>
+<details>
+  <summary>游戏 🎮</summary>
+</details>
