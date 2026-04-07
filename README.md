@@ -16,7 +16,7 @@ Just keep going.
 </details>
 <details>
   <summary>源码拆解 / Source code disassembly</summary>
-
+  - Vue3源码解析 [Vue3 源码解析地址](https://github.com/yunlii/Analysis-of-Vue-Source-Code#).
 </details>
 <details>
   <summary>游戏 / Game 🎮</summary>
